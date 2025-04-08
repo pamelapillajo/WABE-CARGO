@@ -1,0 +1,13 @@
+
+{
+  "name": "bluecargo",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
